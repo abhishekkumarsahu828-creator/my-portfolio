@@ -74,7 +74,7 @@ myPortfolio/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/abhishekkumarsahu828-creator/my-portfolio
 ```
 
 Move into the project:
